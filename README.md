@@ -1,4 +1,4 @@
-# Alfred workflow for AppCleaner, v2024.06.
+# Alfred workflow for AppCleaner
 
 Requires AppCleaner (free): https://freemacsoft.net/appcleaner/
 
